@@ -1,0 +1,7 @@
+There are 4 students in the student list.
+The students are:
+
+Remy Skelton is in grade 12 and has an IEP.
+Lionel A. Messi is in grade 12 and has an IEP.
+Zack West is in grade 10 and does not have an IEP.
+Connor E. Salah is in grade 11 and has an IEP.
